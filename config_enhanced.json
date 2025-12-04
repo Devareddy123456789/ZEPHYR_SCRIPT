@@ -1,0 +1,11 @@
+{
+  "jira_url": "https://healthedge-sandbox-apexon-gc.atlassian.net/",
+  "jira_email": "devendra.reddy@healthedge.com",
+  "jira_api_token": "ATATT3xFfGF0-HHmwiE2KrPhP1XJixDFHvscmuFSa0YFYFHs68ky6aSxtsaKZbLbGFZqjbDkAq9WZPUXwLvT0oDjdCVhdC097AH9nzP45c8blpkmLfpcy8N-1haOcz96hhTEFNVtSpMFpKzpRMQptzBTgxGukHp-BF9PVWaQodeX4PxizZ4MW7o=DA209E32",
+  "zephyr_base_url": "https://prod-play.zephyr4jiracloud.com/connect",
+  "zephyr_access_key": "ZDgyNDhlY2YtM2ZhMi0zODc5LTlkZDUtOWU3YzcwMTVjMTY0IDcxMjAyMCUzQTAwMWM2OTI1LTEyNTItNDFlZS1iMzZkLTBhYWJiZTVlN2Q2ZiB1c2VyX2tleQ",
+  "zephyr_secret_key": "q_Ey_TPDdRJIJ-hBkFh-l73iSE8-C9ugv2vltH825T4",
+  "zephyr_account_id": "712020:001c6925-1252-41ee-b36d-0aabbe5e7d6f",
+  "stop_on_error": false,
+  "rate_limit_delay": 1.5
+}
